@@ -13,18 +13,18 @@ https://twitter.com/joserzapata<br>
 
 # Temas:
 ## Señales y Sistemas
-- Operaciones de Varible Independiente
-- Señales Periodicas y No Periodicas
-- Señal Par e Impar
-- Señales Exponenciales Sinusoidales
-- Funciones Singulares
-- Sistemas
+- [Operaciones de Variable Independiente](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Operaciones.ipynb)
+- [Señales Periodicas y No Periodicas](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Se%C3%B1al_Periodicas.ipynb)
+- [Señal Par e Impar](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Par_Impar.ipynb)
+- [Señales Exponenciales Sinusoidales](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Se%C3%B1ales_Exponenciales_Sinusoidales.ipynb)
+- [Funciones Singulares](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Funciones_Singulares.ipynb)
+- [Sistemas](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Sistemas.ipynb)
 
 ## Convolucion
-- Sistemas LTI y Convolucion
+- [Sistemas LTI y Convolucion](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Sistemas_LTI_Convolucion.ipynb)
 
 ## Series de Fourier
-- Series De Fourier
+- [Series De Fourier](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Series_Fourier.ipynb)
 
 ## Transformada de Fourier
 - Transformada de Fourier
