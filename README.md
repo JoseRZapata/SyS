@@ -3,6 +3,8 @@
 Repositorio del Curso de Sistemas y Señales, el contenido del curso esta en Jupyter notebooks,
 con un poco de Teoria, Ecuaciones y Ejemplos utilizando Python. 
 
+El sitio web estatico con los jupyter notebooks [Aqui](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/index.ipynb)
+
 El Libro Guia de la mayoria del curso es Sistemas y Señales, Alan Oppenheim, Alan Willsky, Hamid Nawab, Prentice-Hall,1996. [Videos del curso de Alan Oppenheim](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/video-lectures/)
 
 Por 
@@ -11,7 +13,7 @@ Phd. Jose Ricardo Zapata <br>
 https://joserzapata.github.io/<br>
 https://twitter.com/joserzapata<br>
 
-# Temas:
+# [Temas:](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/index.ipynb)
 ## Señales y Sistemas
 - [Operaciones de Variable Independiente](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Operaciones.ipynb)
 - [Señales Periodicas y No Periodicas](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Se%C3%B1al_Periodicas.ipynb)
