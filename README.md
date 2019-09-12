@@ -38,7 +38,12 @@ https://twitter.com/joserzapata<br>
   
 
 # Referencias
-- Sistemas y Señales, Alan Oppenheim, Alan Willsky, Hamid Nawab, Prentice-Hall,1996.
+## Bibliografia
+- Oppenheim, Alan V, "Señales y sistemas", México Madrid. Ed. Prentice Hall. 1998.
+- Lathi, B. P., "Linear systems and signals ", New York, NY. Oxford University Press. 2005.
+- S. Haykin. “Communication Systems”. Ed. John Wiley & Sons, 1995.
+- B.P. Lathi, “Modern Digital and Analog Communication Systems”. Ed. Oxford University Press, 1998.
+## Web
 - Continuous-Time and Discrete-Time Signals and Systems https://github.com/spatialaudio/signals-and-systems-lecture
 - TELG1001 – Señales y Sistemas http://blog.espol.edu.ec/telg1001/
 - http://19e37.com/wiki/index.php?title=Categor%C3%ADa:Se%C3%B1ales_y_Sistemas
