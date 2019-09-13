@@ -29,7 +29,7 @@ https://twitter.com/joserzapata<br>
 - [Series De Fourier](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Series_Fourier.ipynb)
 
 ## Transformada de Fourier
-- Transformada de Fourier
+- [Transformada Continua de Fourier](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Continua_Fourier.ipynb)
 
 ## Modulaciones Analogicas
 - Modulaciones de Amplitud
