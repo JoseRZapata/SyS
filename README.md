@@ -1,7 +1,9 @@
 # Sistemas y Señales
 
 Repositorio del Curso de Sistemas y Señales, el contenido del curso esta en Jupyter notebooks,
-con un poco de Teoria, Ecuaciones y Ejemplos utilizando Python. 
+con un poco de Teoria, Ecuaciones y Ejemplos utilizando Python.
+
+**Trabajo en Proceso**
 
 El sitio web estatico con los jupyter notebooks [Aqui](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/index.ipynb)
 
