@@ -32,6 +32,7 @@ https://twitter.com/joserzapata<br>
 
 ## Transformada de Fourier
 - [Transformada Continua de Fourier](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Continua_Fourier.ipynb)
+- [Transformada de Fourier en Tiempo Discreto (DTFT)](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Discreta_Fourier.ipynb)
 
 ## Modulaciones Analogicas
 - Modulaciones de Amplitud
