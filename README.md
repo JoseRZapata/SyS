@@ -34,6 +34,9 @@ https://twitter.com/joserzapata<br>
 - [Transformada Continua de Fourier](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Continua_Fourier.ipynb)
 - [Transformada de Fourier en Tiempo Discreto (DTFT)](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Discreta_Fourier.ipynb)
 
+## Transformada de Laplace y Z
+- [Transformada de Laplace](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Laplace.ipynb)
+
 ## Modulaciones Analogicas
 - Modulaciones de Amplitud
 - Modulaciones de Frecuencia
