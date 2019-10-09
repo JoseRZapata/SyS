@@ -36,12 +36,9 @@ https://twitter.com/joserzapata<br>
 
 ## Transformada de Laplace y Z
 - [Transformada de Laplace](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Laplace.ipynb)
+- [Transformada Z](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Z.ipynb)
 
-## Modulaciones Analogicas
-- Modulaciones de Amplitud
-- Modulaciones de Frecuencia
-- Modulaciones de Fase
-  
+
 
 # Referencias
 ## Bibliografia
