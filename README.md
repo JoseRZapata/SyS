@@ -38,7 +38,8 @@ https://twitter.com/joserzapata<br>
 - [Transformada de Laplace](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Laplace.ipynb)
 - [Transformada Z](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Transformada_Z.ipynb)
 
-
+## Sistemas en el Dominio de la Frecuencia
+- [Caracterizacion de Sistemas en el Dominio de la Frecuencia](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Sistemas_Dominio_Frecuencia.ipynb)
 
 # Referencias
 ## Bibliografia
