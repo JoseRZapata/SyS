@@ -40,7 +40,11 @@ https://twitter.com/joserzapata<br>
 
 ## Sistemas en el Dominio de la Frecuencia
 - [Caracterizacion de Sistemas en el Dominio de la Frecuencia](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Sistemas_Dominio_Frecuencia.ipynb)
-
+- [Sistemas Ideales](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Sistemas_Ideales.ipynb)
+  
+## Conversion Analogo / Digital  
+- [Muestreo](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Muestreo.ipynb)
+  
 # Referencias
 ## Bibliografia
 - Oppenheim, Alan V, "Señales y sistemas", México Madrid. Ed. Prentice Hall. 1998.
