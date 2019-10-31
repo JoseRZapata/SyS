@@ -44,6 +44,9 @@ https://twitter.com/joserzapata<br>
   
 ## Conversion Analogo / Digital  
 - [Muestreo](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Muestreo.ipynb)
+
+## Trabajo Final
+[Trabajo Final Modulaciones](https://nbviewer.jupyter.org/github/JoseRZapata/SyS/blob/master/Trabajo_Final_Sistemas_Señales.ipynb)
   
 # Referencias
 ## Bibliografia
